@@ -1,1 +1,1 @@
-// Add JS functionality here 
+console.log("Portfolio website loaded.");
